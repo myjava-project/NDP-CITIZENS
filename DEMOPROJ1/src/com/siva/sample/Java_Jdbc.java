@@ -1,5 +1,7 @@
+package com.siva.sample;
 import java.sql.*;
-class Java_Jdbc{  
+public class Java_Jdbc
+{  
 public static void main(String args[]){  
 try{  
 //step1 load the driver class  
